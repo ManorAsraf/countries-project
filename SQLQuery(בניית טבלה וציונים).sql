@@ -1,4 +1,4 @@
-----------------------------------------------יצירת הטבלה------------------------------------
+---------------------------------------------- Table Creation ------------------------------------
 CREATE TABLE countries_scores (
     country NVARCHAR(100) PRIMARY KEY,
     accessibility_score FLOAT,
@@ -15,7 +15,7 @@ select *
 from countries_scores
 
 
-----------------------------------------ציון אונסקו---------------------------------------
+---------------------------------------- UNESCO Score ---------------------------------------
 WITH base_data AS (
     SELECT 
         country_name,
@@ -43,7 +43,7 @@ FROM countries_scores cs
 JOIN final_scores fs ON cs.country_name = fs.country_name;
 
 
------------------------------------------ציון נגישות------------------------------------------
+----------------------------------------- Accessibility Score ------------------------------------------
 WITH base_data AS (
     SELECT 
         country_name,
@@ -71,25 +71,25 @@ FROM countries_scores cs
 JOIN final_scores fs ON cs.country_name = fs.country_name;
 
 
-------------------------------------------------------ציון אושר-----------------------------------------------
+------------------------------------------------------ Happiness Score -----------------------------------------------
 UPDATE cs
 SET cs.happiness_score = h.score
 FROM countries_scores cs
 JOIN (
     SELECT Country_name, avg(score) as score
-    FROM [Happiness_data(2011–2024)]
+    FROM [Happiness_data(2011ג€“2024)]
 	group by Country_name
 ) h ON cs.country_name = h.Country_name;
 
 
--------------------------------------------------------ציון בטיחות/פשע----------------------------------------
+------------------------------------------------------- Safety/Crime Score ----------------------------------------
 UPDATE cs
 SET cs.safety_score = ci.crimeratesafetyindex / 10.0
 FROM countries_scores cs
 JOIN [crime_index(2024)] ci ON cs.country_name = ci.country;
 
 
-------------------------------------------------------ציון עלות מחיה------------------------------------------
+------------------------------------------------------ Cost of Living Score ------------------------------------------
 WITH ranked AS (
     SELECT 
         country_name,
@@ -98,12 +98,12 @@ WITH ranked AS (
     FROM [Cost_of_Living(2024)]
 )
 UPDATE cs
-SET cs.cost_score = ROUND(1 + 9.0 * (1 - r.pr), 3) -- ככל שיותר זול, הציון גבוה
+SET cs.cost_score = ROUND(1 + 9.0 * (1 - r.pr), 3) -- The cheaper, the higher the score
 FROM countries_scores cs
 JOIN ranked r ON cs.country_name = r.country_name;
 
 
-------------------------------------------------------ציון שמורות טבע------------------------------------------
+------------------------------------------------------ Nature Reserves Score ------------------------------------------
 WITH avg_nature AS (
     SELECT 
         nr.country_name,
@@ -116,7 +116,7 @@ combined AS (
     SELECT 
         c.country_name,
         a.avg_percentage,
-        (a.avg_percentage / 100.0) * c.area AS avg_area_reserved  -- חישוב שטח שמורות טבע בפועל
+        (a.avg_percentage / 100.0) * c.area AS avg_area_reserved  -- Calculation of actual protected area
     FROM avg_nature a
     JOIN countries c ON a.Country_Name = c.country_name
     WHERE c.area IS NOT NULL
@@ -126,7 +126,7 @@ ranked AS (
         country_name,
         avg_percentage,
         avg_area_reserved,
-        -- דירוג לפי ציון משולב: 70% אחוז, 30% שטח בפועל
+        -- Ranking based on combined score: 70% percentage, 30% actual area
         0.7 * PERCENT_RANK() OVER (ORDER BY avg_percentage ASC) +
         0.3 * PERCENT_RANK() OVER (ORDER BY avg_area_reserved ASC) AS combined_score
     FROM combined
@@ -137,7 +137,7 @@ FROM countries_scores cs
 JOIN ranked r ON cs.country_name = r.country_name;
 
 
--------------------------------------------------ציון אותנטיות-----------------------------------------------
+------------------------------------------------- Authenticity Score -----------------------------------------------
 WITH avg_tourism AS (
     SELECT 
         country_name,
@@ -160,7 +160,7 @@ ranked AS (
     SELECT 
         country_name,
         tourists_per_capita,
-        1- PERCENT_RANK() OVER (ORDER BY tourists_per_capita ASC) AS pr -- פחות תיירים = יותר אותנטי
+        1- PERCENT_RANK() OVER (ORDER BY tourists_per_capita ASC) AS pr -- Fewer tourists = more authentic
     FROM tourists_per_capita
 )
 UPDATE cs
@@ -169,7 +169,7 @@ FROM countries_scores cs
 JOIN ranked r ON cs.country_name = r.country_name;
 
 
----------------------------------------------------ציון מזג אויר--------------------------------------------
+--------------------------------------------------- Weather Score --------------------------------------------
 WITH yearly_avg AS (
     SELECT 
         country_name,
@@ -184,13 +184,13 @@ normalized AS (
     SELECT 
         Country_Name,
 
-        -- טמפרטורה אידיאלית סביב 21 מעלות
+        -- Ideal temperature around 21ֲ°C
         1 - ABS(avg_temp - 21) / 15.0 AS temp_score,
 
-        -- משקעים אידיאליים סביב 1000 מ"מ
+        -- Ideal precipitation around 1000 mm
         1 - ABS(avg_precip - 1000) / 1000.0 AS precip_score,
 
-        -- זיהום אוויר – פחות = טוב
+        -- Air pollution ג€“ lower is better
         1 - avg_pollution / 100.0 AS pollution_score
 
     FROM yearly_avg
@@ -216,6 +216,6 @@ FROM countries_scores cs
 JOIN final_score fs ON cs.country_name = fs.Country_Name;
 
 
-------------------------------------------------------טבלה סופית-----------------------------------------
+------------------------------------------------------ Final Table -----------------------------------------
 select *
 from countries_scores
