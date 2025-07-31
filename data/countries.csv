@@ -1,0 +1,252 @@
+country,id,iso2,currency,population,density,area,language,continent,un_member,religion,Number of international airports,GDP,GDP per capita
+Monaco,MC,MC,Euro,31597,15798.5,2,French,Europe,TRUE,Christianity,0,8772,277621.2932
+Liechtenstein,LI,LI,Swiss Franc,39993,250,160,German,Europe,TRUE,Christianity,0,7757,193958.9428
+Luxembourg,LU,LU,Euro,660924,255.6,2586,Luxembourgish,Europe,TRUE,Christianity,1,81530,123357.6024
+Bermuda,BM,BM,Bermudian Dollar,72576,1344,54,English,North America,FALSE,Christianity,1,7546,103973.7654
+Norway,NO,NO,Norwegian Krone,5597924,17.3,323802,Norwegian,Europe,TRUE,No Religion,11,579422,103506.5857
+Ireland,IE,IE,Euro,5323991,75.8,70273,English,Europe,TRUE,Christianity,5,532415,100002.9865
+Cayman Islands,KY,KY,Cayman Islands Dollar,65483,248,264,English,North America,FALSE,Christianity,2,6281,95918.02453
+Switzerland,CH,CH,Swiss Franc,8563760,207.5,41277,German,Europe,TRUE,Christianity,6,818426,95568.53532
+Qatar,QA,QA,Qatari Riyal,2532104,218.5,11586,Arabic,Asia,TRUE,Islam,1,237101,93637.93904
+Singapore,SG,SG,Singapore Dollar,5975383,8310.7,719,English,Asia,TRUE,Buddhism,1,466788,78118.50722
+Iceland,IS,IS,Icelandic Krona,360872,3.5,103000,Icelandic,Europe,TRUE,Christianity,4,28064,77767.18615
+United States,US,US,United States Dollar,339665118,34.5,9833517,English,North America,TRUE,Christianity,123,25744100,75792.59287
+Denmark,DK,DK,Danish Krone,5946984,138,43094,Danish,Europe,FALSE,No Religion,4,400167,67289.06619
+Australia,AU,AU,Australian Dollar,26461166,3.4,7741220,English,Oceania,TRUE,Christianity,16,1776577,67139.02932
+Israel,IL,IL,New Shekel,9043387,412.2,21937,Hebrew,Asia,TRUE,Judaism,3,525002,58053.69161
+Kuwait,KW,KW,Kuwaiti Dinar,3103580,174.2,17818,Arabic,Asia,TRUE,Islam,1,175363,56503.4573
+Sweden,SE,SE,Swedish Krona,10536338,23.4,450295,Swedish,Europe,TRUE,No Religion,13,591188,56109.43764
+Canada,CA,CA,Canadian Dollar,38516736,3.9,9984670,English,North America,TRUE,Christianity,15,2137939,55506.75426
+Austria,AT,AT,Euro,8940860,106.6,83871,German,Europe,TRUE,Christianity,6,470302,52601.4276
+San Marino,SM,SM,Euro,34892,572,61,Italian,Europe,TRUE,Christianity,,1780,51014.55921
+United Arab Emirates,AE,AE,United Arab Emirates Dirham,9973449,119.3,83600,Arabic,Asia,TRUE,Islam,6,507063,50841.28871
+Greenland,GL,GL,Danish Krone,57777,0,2166086,Greenlandic,North America,FALSE,Christianity,4,2926,50642.98942
+Finland,FI,FI,Euro,5614571,16.6,338145,Finnish,Europe,TRUE,Christianity,12,282511,50317.4686
+Hong Kong,HK,HK,Hong Kong Dollar,7288167,6577.8,1108,Chinese,Asia,FALSE,No Religion,1,359838,49372.90817
+Belgium,BE,BE,Euro,11913633,390.3,30528,Dutch,Europe,TRUE,Christianity,5,582643,48905.56894
+Germany,DE,DE,Euro,84220184,235.9,357022,German,Europe,TRUE,Christianity,19,4076923,48407.90896
+New Zealand,NZ,NZ,New Zealand Dollar,5109702,19,268838,English,Oceania,TRUE,Christianity,5,245845,48113.37334
+United Kingdom,GB,GB,British Pound,68138484,279.7,243610,English,Europe,FALSE,Christianity,29,3089072,45335.20294
+France,FR,FR,Euro,68521974,106.4,643801,French,Europe,TRUE,Christianity,34,2775316,40502.56929
+Andorra,AD,AD,Euro,85468,182.6,468,Catalan,Europe,TRUE,Christianity,0,3376,39500.1638
+Malta,MT,MT,Euro,467138,1478.3,316,Maltese,Europe,TRUE,Christianity,1,18100,38746.58024
+Macau,MO,MO,Hong Kong Dollar,639971,22856.1,28,Chinese,Asia,FALSE,Buddhism,1,24042,37567.32727
+Puerto Rico,PR,PR,United States Dollar,3057311,335.8,9104,Spanish,North America,FALSE,Christianity,2,113434,37102.5388
+The Bahamas,BS,BS,Bahamian Dollar,358508,25.8,13880,English,North America,TRUE,Christianity,7,12897,35974.09263
+Brunei,BN,BN,Brunei Dollar,484991,84.1,5765,Malay,Asia,TRUE,Islam,1,16681,34394.45268
+Japan,JP,JP,Japanese Yen,123719238,327.4,377915,Japanese,Asia,TRUE,No Religion,20,4232173,34207.88124
+Italy,IT,IT,Euro,61021855,202.5,301340,Italian,Europe,TRUE,Christianity,30,2046952,33544.57186
+Taiwan,TW,TW,New Taiwan Dollar,23588613,655.6,35980,Chinese,Asia,TRUE,Buddhism,6,775017,32855.5562
+South Korea,KR,KR,South Korean Won,51966948,521.1,99720,Korean,Asia,TRUE,No Religion,8,1673916,32211.16622
+New Caledonia,NC,NC,Cfp Franc,300682,16.2,18575,French,Oceania,FALSE,Christianity,1,9623,32003.91111
+Estonia,EE,EE,Euro,1202762,26.6,45228,Estonian,Europe,TRUE,No Religion,3,38049,31634.68749
+Saudi Arabia,SA,SA,Saudi Riyal,35939806,16.7,2149690,Arabic,Asia,TRUE,Islam,14,1108148,30833.44412
+Spain,ES,ES,Euro,47222613,93.4,505370,Spanish,Europe,TRUE,Christianity,34,1415874,29982.966
+Oman,OM,OM,Omani Rial,3833465,12.4,309500,Arabic,Asia,TRUE,Islam,3,114666,29911.84216
+Aruba,AW,AW,Aruban Florin,123702,687.2,180,Dutch,North America,FALSE,Christianity,1,3544,28649.49637
+Slovenia,SI,SI,Euro,2099790,103.6,20273,Slovenian,Europe,TRUE,Christianity,3,59981,28565.23748
+Bahrain,BH,BH,Bahraini Dinar,1553886,2044.6,760,Arabic,Asia,TRUE,Islam,1,44382,28561.94084
+Czech Republic,CZ,CZ,Czech Koruna,10706242,135.8,78867,Czech,Europe,TRUE,No Religion,6,290527,27136.22576
+Lithuania,LT,LT,Euro,2655755,40.7,65300,Lithuanian,Europe,TRUE,Christianity,4,70878,26688.45583
+Guadeloupe,GP,GP,Euro,378561,232.5,1628,French,North America,FALSE,Christianity,1,9462,24994.6508
+Portugal,PT,PT,Euro,10223150,111,92090,Portuguese,Europe,TRUE,Christianity,8,254849,24928.61789
+Caribbean Netherlands,BQ,BQ,United States Dollar,30397,,,English,North America,FALSE,Christianity,3,725,23851.03793
+Latvia,LV,LV,Euro,1821750,28.2,64589,Latvian,Europe,TRUE,Christianity,2,40876,22437.76588
+Cyprus,CY,CY,Euro,1308120,141.4,9251,Greek,Asia,TRUE,Christianity,3,29210,22329.75568
+Trinidad and Tobago,TT,TT,Trinidad And Tobago Dollar,1407460,274.5,5128,English,North America,TRUE,Christianity,2,30053,21352.64945
+Slovakia,SK,SK,Euro,5425319,110.6,49035,Slovak,Europe,TRUE,Christianity,5,115304,21252.94384
+Uruguay,UY,UY,Uruguayan Peso,3416264,19.4,176215,Spanish,South America,TRUE,Christianity,3,71171,20832.99183
+Greece,GR,GR,Euro,10497595,79.6,131957,Greek,Europe,TRUE,Christianity,21,217285,20698.55048
+Seychelles,SC,SC,Seychellois Rupee,97617,214.5,455,English,Seven seas (open ocean),TRUE,Christianity,1,1994,20426.76993
+French Polynesia,PF,PF,Cfp Franc,301488,72.4,4167,French,Oceania,FALSE,Christianity,1,5814,19284.34963
+Turks and Caicos Islands,TC,TC,United States Dollar,59367,62.6,948,English,North America,FALSE,Christianity,1,1138,19168.89855
+Barbados,BB,BB,Barbadian Dollar,303431,705.7,430,English,North America,TRUE,Christianity,1,5699,18781.86474
+Guyana,GY,GY,Guyanese Dollar,791739,3.7,214969,English,South America,TRUE,Christianity,1,14718,18589.45941
+Hungary,HU,HU,Hungarian Forint,9670009,103.9,93028,Hungarian,Europe,TRUE,Christianity,5,177337,18338.86608
+Poland,PL,PL,Polish Zloty,37991766,121.5,312685,Polish,Europe,TRUE,Christianity,12,688125,18112.47732
+Saint Kitts and Nevis,KN,KN,Eastern Caribbean Dollar,54817,210,261,English,North America,TRUE,Christianity,1,979,17859.42317
+Antigua and Barbuda,AG,AG,Eastern Caribbean Dollar,101489,229.1,443,English,North America,TRUE,Christianity,1,1770,17440.31373
+Panama,PA,PA,United States Dollar,4404108,58.4,75420,Spanish,North America,TRUE,Christianity,4,76522,17375.14157
+Croatia,HR,HR,Euro,4169239,73.7,56594,Croatian,Europe,TRUE,Christianity,9,71552,17161.88494
+Romania,RO,RO,Romanian Leu,18326327,76.9,238391,Romanian,Europe,TRUE,Christianity,16,300690,16407.54309
+Chile,CL,CL,Chilean Peso,18549457,24.5,756102,Spanish,South America,TRUE,Christianity,5,300686,16209.96237
+American Samoa,AS,AS,United States Dollar,44620,199.2,224,English,Oceania,FALSE,Christianity,1,709,15889.73554
+Russia,RU,RU,Russian Ruble,141698923,8.3,17098242,Russian,Europe,TRUE,Christianity,67,2240422,15811.14346
+Nauru,NR,NR,Australian Dollar,9852,469.1,21,Nauruan,Oceania,TRUE,Christianity,1,147,14920.82826
+Argentina,AR,AR,Argentine Convertible Peso,46621847,16.8,2780400,Spanish,South America,TRUE,Christianity,9,631133,13537.28007
+Cuba,CU,CU,Cuban Peso,10985974,99.1,110860,Spanish,North America,TRUE,Christianity,9,147193,13398.26583
+Bulgaria,BG,BG,Bulgarian Lev,6827736,61.6,110879,Bulgarian,Europe,TRUE,Christianity,4,90213,13212.72527
+Costa Rica,CR,CR,Costa Rican Colon,5256612,102.9,51100,Spanish,North America,TRUE,Christianity,2,68380,13008.37878
+Saint Lucia,LC,LC,Eastern Caribbean Dollar,167591,272.1,616,English,North America,TRUE,Christianity,1,2165,12918.3548
+China,CN,CN,Chinese Yuan,1413142846,147.2,9596960,Chinese,Asia,TRUE,No Religion,88,17963170,12711.50334
+Malaysia,MY,MY,Malaysian Ringgit,34219975,103.7,329847,Malay,Asia,TRUE,Islam,12,406305,11873.32837
+Maldives,MV,MV,Maldivian Rufiyaa,521021,1748.4,298,Divehi,Seven seas (open ocean),TRUE,Islam,5,6170,11842.13304
+Turkmenistan,TM,TM,Turkmenistan New Manat,5690818,11.7,488100,Turkmen,Asia,TRUE,Islam,5,67009,11774.93288
+Kazakhstan,KZ,KZ,Kazakhstani Tenge,19543464,7.2,2724900,Kazakh,Asia,TRUE,Islam,16,225496,11538.17972
+Mexico,MX,MX,Mexican Peso,129875529,66.1,1964375,Spanish,North America,TRUE,Christianity,40,1463323,11267.11869
+Turkey,TR,TR,Turkish Lira,83593483,106.7,783562,Turkish,Asia,TRUE,Islam,22,907118,10851.53971
+Dominican Republic,DO,DO,Dominican Peso,10790744,221.7,48670,Spanish,North America,TRUE,Christianity,7,113537,10521.70267
+Grenada,GD,GD,Eastern Caribbean Dollar,114299,332.3,344,English,North America,TRUE,Christianity,1,1192,10428.78765
+Montenegro,ME,ME,Euro,602445,43.6,13812,Montenegrin,Europe,TRUE,Christianity,2,6229,10339.53307
+Palau,PW,PW,United States Dollar,21779,47.4,459,English,Oceania,TRUE,Christianity,1,225,10331.05285
+Mauritius,MU,MU,Mauritian Rupee,1309448,641.9,2040,English,Seven seas (open ocean),TRUE,Hinduism,1,12898,9849.952041
+Saint Vincent and the Grenadines,VC,VC,Eastern Caribbean Dollar,100804,259.1,389,English,North America,TRUE,Christianity,2,946,9384.548232
+Brazil,BR,BR,Brazilian Real,218689757,25.7,8515770,Portuguese,South America,TRUE,Christianity,31,1920095,8779.995123
+Botswana,BW,BW,Botswana Pula,2417596,4.2,581730,English,Africa,TRUE,Christianity,4,20352,8418.279977
+Gabon,GA,GA,Central African Cfa Franc,2397368,9,267667,French,Africa,TRUE,Christianity,3,20132,8397.542638
+Dominica,DM,DM,Eastern Caribbean Dollar,74656,99.4,751,English,North America,TRUE,Christianity,1,612,8197.599657
+Belarus,BY,BY,Belarusian Ruble,9383853,45.2,207600,Belarusian,Europe,TRUE,Christianity,3,72873,7765.786612
+Azerbaijan,AZ,AZ,Azerbaijani Manat,10420515,120.3,86600,Azerbaijani,Asia,TRUE,Islam,6,78721,7554.425093
+Peru,PE,PE,Nuevo Sol,32440172,25.2,1285216,Spanish,South America,TRUE,Christianity,3,242631,7479.337656
+Lebanon,LB,LB,Lebanese Pound,5331203,512.6,10400,Arabic,Asia,TRUE,Islam,1,39303,7372.257256
+Thailand,TH,TH,Thai Baht,69794997,136,513120,Thai,Asia,TRUE,Buddhism,11,495340,7097.070296
+South Africa,ZA,ZA,Rand,58048332,47.6,1219090,Zulu,Africa,TRUE,Christianity,8,405270,6981.595957
+Colombia,CO,CO,Colombian Peso,49336454,43.3,1138910,Spanish,South America,TRUE,Christianity,32,343939,6971.295505
+Equatorial Guinea,GQ,GQ,Central African Cfa Franc,1737695,61.9,28051,Spanish,Africa,TRUE,Christianity,1,11767,6771.614121
+Belize,BZ,BZ,Belize Dollar,419137,18.3,22966,English,North America,TRUE,Christianity,1,2830,6751.968927
+Ecuador,EC,EC,United States Dollar,17483326,61.7,283561,Spanish,South America,TRUE,Christianity,7,115049,6580.49847
+Armenia,AM,AM,Armenian Dram,2989091,100.5,29743,Armenian,Asia,TRUE,Christianity,2,19513,6528.071578
+Bosnia and Herzegovina,BA,BA,Convertible Mark,3807764,74.4,51197,Bosnian,Europe,TRUE,Islam,4,24473,6427.131513
+North Macedonia,MK,MK,North Macedonian Denar,2133410,83,25713,Macedonian,Europe,TRUE,Christianity,2,13711,6426.800287
+Iraq,IQ,IQ,Iraqi Dinar,41266109,94.1,438317,Arabic,Asia,TRUE,Islam,7,264182,6401.912039
+Albania,AL,AL,Albanian Lek,3101621,107.9,28748,Albanian,Europe,TRUE,Islam,2,18916,6098.74643
+Jamaica,JM,JM,Jamaican Dollar,2820982,256.7,10991,English,North America,TRUE,Christianity,2,17097,6060.655474
+Suriname,SR,SR,Surinamese Dollar,639759,3.9,163820,Dutch,South America,TRUE,Christianity,1,3620,5658.380734
+Paraguay,PY,PY,Paraguayan Guaranã­,7439863,18.3,406752,Spanish,South America,TRUE,Christianity,2,41722,5607.898963
+Libya,LY,LY,Libyan Dinar,7252573,4.1,1759540,Arabic,Africa,TRUE,Islam,4,40537,5589.326712
+Guatemala,GT,GT,Quetzal,17980803,165.1,108889,Spanish,North America,TRUE,Christianity,2,95003,5283.579382
+Mongolia,MN,MN,Tugrik,3255468,2.1,1564116,Mongolian,Asia,TRUE,Buddhism,1,17146,5266.831067
+Fiji,FJ,FJ,Fijian Dollar,947760,51.9,18274,English,Oceania,TRUE,Christianity,2,4979,5253.439689
+Tuvalu,TV,TV,Tuvaluan Dollar,11639,447.7,26,English,Oceania,TRUE,Christianity,1,59,5069.164018
+Georgia,GE,GE,Georgian Lari,4927228,70.7,69700,Georgian,Asia,TRUE,Christianity,4,24605,4993.680016
+El Salvador,SV,SV,United States Dollar,6602370,313.8,21041,Spanish,North America,TRUE,Christianity,1,32488,4920.657279
+Tonga,TO,TO,Tongan Paʻanga,105221,140.9,747,English,Oceania,TRUE,Christianity,2,488,4637.857462
+Iran,IR,IR,Iranian Rial,87590873,53.1,1648195,Persian,Asia,TRUE,Islam,29,398047,4544.389003
+Namibia,NA,NA,Namibian Dollar ,2777232,3.4,824292,English,Africa,TRUE,,2,12607,4539.411904
+Moldova,MD,MD,Moldovan Leu,3250532,96,33851,Romanian,Europe,TRUE,Christianity,1,14510,4463.884681
+Algeria,DZ,DZ,Algerian Dinar,44758398,18.8,2381740,Arabic,Africa,TRUE,Islam,14,191912,4287.731657
+Jordan,JO,JO,Jordanian Dinar,11086716,124.1,89342,Arabic,Asia,TRUE,Islam,2,47452,4280.077166
+Federated States of Micronesia,FM,FM,United States Dollar,100319,142.9,702,English,Oceania,TRUE,Christianity,4,427,4256.422014
+Venezuela,VE,VE,Sovereign Bolivar,30518260,33.5,912050,Spanish,South America,TRUE,Christianity,3,129313,4237.233709
+Samoa,WS,WS,Samoan Tala,207501,73.3,2831,Samoan,Oceania,TRUE,Christianity,1,857,4130.100578
+Djibouti,DJ,DJ,Djiboutian Franc,976143,42.1,23200,Arabic,Africa,TRUE,Islam,1,4003,4100.833587
+Vietnam,VN,VN,Vietnamese Dong,104799174,316.4,331210,Vietnamese,Asia,TRUE,No Religion,10,408802,3900.813188
+Tunisia,TN,TN,Tunisian Dinar,11976182,73.2,163610,Arabic,Africa,TRUE,Islam,7,46181,3856.070324
+Cape Verde,CV,CV,Cape Verdean Escudo,603901,149.7,4033,Portuguese,Africa,TRUE,Christianity,4,2314,3831.75388
+Eswatini,SZ,SZ,Lilangeni,1130043,65.1,17364,English,Africa,TRUE,Christianity,1,4326,3828.17291
+Egypt,EG,EG,Egyptian Pound,109546720,109.4,1001450,Arabic,Africa,TRUE,Islam,15,409306,3736.360158
+Ukraine,UA,UA,Hryvnia,43306477,71.8,603550,Ukrainian,Europe,TRUE,Christianity,14,160502,3706.189261
+Bolivia,BO,BO,Boliviano,12186079,11.1,1098581,Spanish,South America,TRUE,Christianity,3,44008,3611.333884
+Morocco,MA,MA,Moroccan Dirham,37067420,51.7,716550,Arabic,Africa,TRUE,Islam,11,130912,3531.726783
+Philippines,PH,PH,Philippine Peso,116434200,388.1,300000,Filipino,Asia,TRUE,Christianity,14,404284,3472.210055
+Marshall Islands,MH,MH,United States Dollar,80966,447.3,181,English,Oceania,TRUE,Christianity,2,279,3445.890868
+Honduras,HN,HN,Honduran Lempira,9571352,85.4,112090,Spanish,North America,TRUE,Christianity,5,31717,3313.742928
+Bhutan,BT,BT,Ngultrum,876181,22.8,38394,Dzongkha,Asia,TRUE,Buddhism,1,2898,3307.535772
+Sri Lanka,LK,LK,Sri Lankan Rupee,23326272,355.5,65610,Sinhala,Asia,TRUE,Buddhism,4,76187,3266.145572
+Papua New Guinea,PG,PG,Kina,9819350,21.2,462840,English,Oceania,TRUE,Christianity,3,31609,3219.052178
+Angola,AO,AO,Kwanza,35981281,28.9,1246700,Portuguese,Africa,TRUE,Christianity,2,113304,3148.970711
+Vanuatu,VU,VU,Vanuatu Vatus,313046,25.7,12189,Bislama,Oceania,TRUE,Christianity,2,985,3146.502431
+Republic of Congo,CG,CG,Central African Cfa Franc,5677493,16.6,342000,French,Africa,TRUE,Christianity,2,15344,2702.601307
+Mauritania,MR,MR,Mauritanian Ouguiya,4244878,4.1,1030700,Arabic,Africa,TRUE,Islam,3,10997,2590.651604
+Bangladesh,BD,BD,Bangladeshi Taka,167184465,1126.1,148460,Bengali,Asia,TRUE,Islam,3,432677,2588.02156
+Uzbekistan,UZ,UZ,Uzbekistani Som,31360836,70.1,447400,Uzbek,Asia,TRUE,Islam,11,80391,2563.420184
+Sao tome and principe,ST,ST,Sã£O Tomã© And Prã­Ncipe Dobra,220372,228.6,964,Portuguese,Africa,TRUE,Christianity,,546,2477.628737
+India,IN,IN,Indian Rupee,1399179585,425.6,3287263,Hindi,Asia,TRUE,Hinduism,39,3465541,2476.837882
+Nicaragua,NI,NI,Nicaraguan Cordoba,6359689,48.8,130370,Spanish,North America,TRUE,Christianity,3,15671,2464.114204
+Ivory Coast,CI,CI,West African Cfa Franc,29344847,91,322463,French,Africa,TRUE,Islam,1,70018,2386.040725
+Solomon Islands,SB,SB,Solomon Islands Dollar,714766,24.7,28896,English,Oceania,TRUE,Christianity,1,1597,2234.297658
+Ghana,GH,GH,Ghana Cedi,33846114,141.9,238533,English,Africa,TRUE,Christianity,7,73766,2179.452566
+Timor-Leste,TL,TL,United States Dollar,1476042,99.2,14874,Portuguese,Asia,TRUE,Christianity,,3204,2170.66994
+Kyrgyzstan,KG,KG,Kyrgyz Som,6122781,30.6,199951,Kyrgyz,Asia,TRUE,Islam,4,12560,2051.355422
+Kenya,KE,KE,Kenyan Shilling,57052004,98.3,580367,English,Africa,TRUE,Christianity,4,113419,1987.99327
+Laos,LA,LA,Lao Kip,7852377,33.2,236800,Lao,Asia,TRUE,Buddhism,4,15362,1956.350287
+Kiribati,KI,KI,Australian Dollar,115372,142.3,811,English,Oceania,TRUE,Christianity,2,223,1932.877995
+Cambodia,KH,KH,Riel,16891245,93.3,181035,Khmer,Asia,TRUE,Buddhism,3,29504,1746.703692
+Zimbabwe,ZW,ZW,Zimbabwean ZiG,15418674,39.5,390757,English,Africa,TRUE,Christianity,3,26418,1713.376909
+Haiti,HT,HT,Gourde,11470261,413.3,27750,French,North America,TRUE,Christianity,2,18751,1634.749201
+Guinea,GN,GN,Guinean Franc,13607249,55.3,245857,French,Africa,TRUE,Islam,1,20846,1531.977551
+Senegal,SN,SN,West African Cfa Franc,18384660,93.5,196722,French,Africa,TRUE,Islam,1,27775,1510.770392
+Cameroon,CM,CM,Central African Cfa Franc,30135732,63.4,475440,English,Africa,TRUE,Christianity,2,44341,1471.376239
+Zambia,ZM,ZM,Zambian Kwacha,20216029,26.9,752618,English,Africa,TRUE,Christianity,3,29136,1441.232598
+Serbia,RS,RS,Serbian Dinar,6693375,86.4,77474,Serbian,Europe,TRUE,Christianity,3,9397,1403.925523
+Comoros,KM,KM,Comorian Franc,888378,397.5,2235,Arabic,Africa,TRUE,Islam,1,1246,1402.556119
+Pakistan,PK,PK,Pakistani Rupee,247653551,311.1,796095,Urdu,Asia,TRUE,Islam,12,326796,1319.569207
+Nepal,NP,NP,Nepalese Rupee,30899443,209.9,147181,Nepali,Asia,TRUE,Hinduism,3,39406,1275.298069
+Benin,BJ,BJ,West African Cfa Franc,14219908,126.3,112622,French,Africa,TRUE,Christianity,1,17396,1223.355313
+Tajikistan,TJ,TJ,Tajikistani Somoni,9245937,64.2,144100,Tajik,Asia,TRUE,Islam,4,10492,1134.76871
+Myanmar,MM,MM,Kyat,57970293,85.7,676578,Burmese,Asia,TRUE,Buddhism,3,65211,1124.90375
+Lesotho,LS,LS,Rand,2210646,72.8,30355,English,Africa,TRUE,Christianity,1,2287,1034.539225
+Ethiopia,ET,ET,Bir,116462712,105.5,1104300,Amharic,Africa,TRUE,Christianity,1,118971,1021.537263
+Uganda,UG,UG,Ugandan Shilling,47729952,198,241038,English,Africa,TRUE,Christianity,3,48243,1010.748974
+Rwanda,RW,RW,Rwandan Franc,13400541,508.8,26338,Kinyarwanda,Africa,TRUE,Christianity,1,13312,993.3927294
+Togo,TG,TG,West African Cfa Franc,8703961,153.3,56785,French,Africa,TRUE,Christianity,1,8087,929.1172146
+Chad,TD,TD,Central African Cfa Franc,18523165,14.4,1284000,Arabic,Africa,TRUE,Islam,1,16799,906.9184451
+Gambia,GM,GM,Dalasi,2468569,218.5,11300,English,Africa,TRUE,Islam,1,2231,903.7624632
+Mali,ML,ML,West African Cfa Franc,21359722,17.2,1240192,French,Africa,TRUE,Islam,1,18827,881.4253294
+Burkina Faso,BF,BF,West African Cfa Franc,22489126,82,274200,French,Africa,TRUE,Islam,2,19176,852.6787568
+Somalia,SO,SO,Somali Shilling,12693796,19.9,637657,Somali,Africa,TRUE,Islam,6,10420,820.8734409
+Syria,SY,SY,Syrian Pound,22933531,122.4,187437,Arabic,Asia,TRUE,Islam,4,18595,810.8214998
+Guinea-Bissau,GW,GW,West African Cfa Franc,2078820,57.5,36125,Portuguese,Africa,TRUE,Islam,1,1574,757.1603121
+Sudan,SD,SD,Sudanese Pound,49197555,26.4,1861484,Arabic,Africa,TRUE,Islam,2,36729,746.5614907
+Liberia,LR,LR,Liberian Dollar,5506280,49.4,111369,English,Africa,TRUE,Christianity,1,3265,592.9593119
+Malawi,MW,MW,Malawian Kwacha,21279597,179.6,118484,English,Africa,TRUE,Christianity,2,12558,590.1427551
+North Korea,KP,KP,North Korean Won,26072217,216.3,120538,Korean,Asia,TRUE,No Religion,1,15176,582.0755481
+Mozambique,MZ,MZ,Mozambican Metical,32513805,40.7,799380,Portuguese,Africa,TRUE,Christianity,7,18406,566.0980005
+Democratic republic of Congo,CD,CD,Congolese Franc,111859928,47.7,2344858,French,Africa,TRUE,Christianity,4,62551,559.1904189
+Madagascar,MG,MG,Ariary,28812195,49.1,587041,Malagasy,Africa,TRUE,Christianity,7,14954,519.0163401
+Central African Republic,CF,CF,Central African Cfa Franc,5552228,8.9,622984,Sango,Africa,TRUE,Christianity,1,2395,431.3583664
+Sierra Leone,SL,SL,Leone,8908040,124.2,71740,English,Africa,TRUE,Islam,1,3481,390.7705848
+South Sudan,SS,SS,South Sudanese Pound,12118379,18.8,644329,Arabic,Africa,TRUE,Christianity,1,4616,380.9090308
+Eritrea,ER,ER,Nakfa,6274796,53.4,117600,Tigrinya,Africa,TRUE,Islam,1,2383,379.7733026
+Afghanistan,AF,AF,Afghani,39232003,60.2,652230,Pashto,Asia,TRUE,Islam,4,14174,361.2866771
+Yemen,YE,YE,Yemeni Rial,31565602,59.8,527968,Arabic,Asia,TRUE,Islam,3,11007,348.7023628
+Burundi,BI,BI,Burundian Franc,13162952,473,27830,Kirundi,Africa,TRUE,Christianity,1,4032,306.3142675
+Netherlands,NL,NL,Euro,17463930,420.4,41543,Dutch,Europe,TRUE,Christianity,5,1572,90.01410335
+Nigeria,NG,NG,Naira,230842743,249.9,923768,English,Africa,TRUE,Christianity,8,15414,66.77272935
+Tanzania,TZ,TZ,Tanzanian Shilling,65642682,69.3,947300,Swahili,Africa,TRUE,Christianity,6,2361,35.96745179
+Akrotiri,QZ,,,,,,,,FALSE,Christianity,,,
+Antarctica,AQ,AQ,,,,14200000,,Antarctica,FALSE,No Religion,,,
+Bouvet Island,BV,BV,,,,49,,Antarctica,FALSE,,,,
+British Indian Ocean Territory,IO,IO,United States Dollar,,,60,English,Seven seas (open ocean),FALSE,Islam,,,
+Dhekelia,XD,,,,,,,,FALSE,Christianity,,,
+French Guiana,GF,GF,Euro,,,,French,South America,FALSE,Christianity,,,
+French Southern and Antarctic Lands,TF,TF,Euro,,,,French,Seven seas (open ocean),FALSE,,,,
+Heard Island and McDonald Islands,HM,HM,,,,412,,Seven seas (open ocean),FALSE,,,,
+Indonesia,ID,ID,Rupiah,279476346,146.7,1904569,Indonesian,Asia,TRUE,Islam,20,,
+Martinique,MQ,MQ,Euro,,,,French,North America,FALSE,Christianity,1,,
+Mayotte,YT,YT,Euro,,,,French,Africa,FALSE,Islam,,,
+Paracel Islands,XP,,,,,,,,FALSE,,,,
+Reunion,RE,RE,Euro,,,,French,Africa,FALSE,Christianity,,,
+South Georgia and the South Sandwich Islands,GS,GS,Pound Sterling,,,,English,Seven seas (open ocean),FALSE,,,,
+Anguilla,AI,AI,Eastern Caribbean Dollar,19079,209.7,91,English,North America,FALSE,Christianity,1,,
+British Virgin Islands,VG,VG,United States Dollar,39369,260.7,151,English,North America,FALSE,Christianity,1,,
+Christmas Island,CX,CX,Australian Dollar,2205,16.3,135,English,Asia,FALSE,Buddhism,1,,
+Cocos (Keeling) Islands,CC,CC,Australian Dollar,596,42.6,14,English,Oceania,FALSE,Islam,1,,
+Cook Islands,CK,CK,Cook Islands Dollar,7939,33.6,236,English,Oceania,FALSE,Christianity,1,,
+Curasao,CW,CW,Netherlands Antillean Guilder,152849,344.3,444,English,North America,FALSE,Christianity,1,,
+Falkland Islands,FK,FK,Falkland Islands Pound,3662,0.3,12173,English,South America,FALSE,Christianity,,,
+Faroe Islands,FO,FO,Faroese Krona,52600,37.8,1393,Faroese,Europe,FALSE,Christianity,1,,
+Gibraltar,GI,GI,Gibraltar Pound,29629,4232.7,7,English,Europe,FALSE,Christianity,1,,
+Guam,GU,GU,United States Dollar,169330,311.3,544,English,Oceania,FALSE,Christianity,1,,
+Guernsey,GG,GG,Pound Sterling,67642,867.2,78,English,Europe,FALSE,Christianity,2,,
+Isle of Man,IM,IM,Manx Pound,91840,160.6,572,Manx,Europe,FALSE,Christianity,1,,
+Jersey,JE,JE,Pound Sterling,102785,886.1,116,English,Europe,FALSE,Christianity,1,,
+Kosovo,XK,XK,Euro,1964327,180.4,10887,Serbian,Europe,FALSE,Islam,1,,
+Montserrat,MS,MS,Eastern Caribbean Dollar,5440,53.3,102,English,North America,FALSE,Christianity,1,,
+Niger,NE,NE,West African Cfa Franc,25396840,20,1267000,French,Africa,TRUE,Islam,1,,
+Niue,NU,NU,New Zealand Dollar,2000,7.7,260,English,Oceania,FALSE,Christianity,1,,
+Norfolk Island,NF,NF,Australian Dollar,1748,48.6,36,English,Oceania,FALSE,Christianity,1,,
+Northern Mariana Islands,MP,MP,United States Dollar,51295,110.5,464,English,Oceania,FALSE,Christianity,3,,
+Pitcairn Islands,PN,PN,New Zealand Dollar,50,1.1,47,English,Oceania,FALSE,Christianity,,,
+Saint Barthelemy,BL,BL,Euro,7093,283.7,25,French,North America,FALSE,Christianity,1,,
+"Saint Helena, Ascension and Tristan da Cunha",SH,SH,Pound Sterling,7935,20.1,394,English,Seven seas (open ocean),FALSE,Christianity,,,
+Saint Pierre and Miquelon,PM,PM,Euro,5195,21.5,242,French,North America,FALSE,Christianity,,,
+Saint-Martin,MF,MF,Euro,32897,657.9,50,French,North America,FALSE,Christianity,1,,
+Sint Maarten,SX,SX,Netherlands Antillean Guilder,45677,1343.4,34,English,North America,FALSE,Christianity,,,
+Svalbard and Jan Mayen,SJ,SJ,Norwegian Krone,2926,0,62045,Norwegian,Europe,FALSE,Christianity,,,
+Tokelau,TK,TK,New Zealand Dollar,1647,137.3,12,English,Insular Oceania,FALSE,Christianity,,,
+United States Minor Outlying Islands,UM,UM,United States Dollar,300,6.1,49.26,English,North America,FALSE,Christianity,,,
+United States Virgin Islands,VI,VI,United States Dollar,104917,54.9,1910,English,North America,FALSE,Christianity,2,,
+Vatican City,VA,VA,Euro,1000,,0,Italian,Europe,FALSE,Christianity,,,
+Wallis and Futuna,WF,WF,Cfp Franc,15929,112.2,142,French,Oceania,FALSE,Christianity,2,,
+Western Sahara,EH,EH,Moroccan Dirham,565581,2.1,272000,Arabic,Africa,FALSE,Islam,,,
