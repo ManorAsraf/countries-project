@@ -2,14 +2,20 @@
 
 ## 📌 Project Overview
 This project aims to evaluate the tourism attractiveness of countries worldwide by analyzing a variety of objective datasets.
+
 Each country receives an individual score for multiple categories such as cost of living, safety, happiness, and more.
+
 While the scoring system is based on objective data, the weights of the different categories can be customized according to traveler preferences, resulting in a different final score and enabling a dynamic, personalized ranking.
 
 ## 📂 Data Sources
 The analysis is based on datasets collected from various open data sources, covering different aspects of each country’s appeal to tourists:
+
 **General country data** – basic information such as population, GDP, region, etc.
+
 **Happiness Index** – global happiness rankings
+
 **Crime Index** – safety levels based on crime rates
+
 **Cost of Living data** – average prices and affordability
 **Weather conditions** – average temperature, rain and air pollution
 **UNESCO World Heritage Sites** – cultural and natural heritage sites
