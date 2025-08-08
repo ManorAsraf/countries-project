@@ -53,3 +53,5 @@ To enhance both the accuracy and usability of the project, several improvements 
 
 ## 👤 Author
 Created by **Manor Asraf**
+Manorasraf@gmail.com
+צ
