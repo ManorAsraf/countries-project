@@ -52,5 +52,4 @@ To enhance both the accuracy and usability of the project, several improvements 
 **Refresh the data periodically** by integrating automated updates or APIs for real-time insights.
 
 ## 👤 Author
-Created by **Manor Asraf**
-Manorasraf@gmail.com
+Created by **Manor Asraf** - Manorasraf@gmail.com
