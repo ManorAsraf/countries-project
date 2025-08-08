@@ -10,7 +10,7 @@ While the scoring system is based on objective data, the weights of the differen
 ## 📂 Data Sources
 The analysis is based on datasets collected from various open data sources, covering different aspects of each country’s appeal to tourists:
 
-**General country data** – basic information such as population, GDP, region, etc.
+**General country data** – basic information such as population, GDP, area, etc.
 
 **Happiness Index** – global happiness rankings
 
@@ -35,7 +35,8 @@ This project was developed using the following tools and formats:
 
 **PowerPoint (PDF)** – To present the key insights, methodology, and final rankings.
 
-**Main Project Files**
+**Main Project Files:**
+
 data/ - Raw CSV datasets.
 
 sql/ - SQL scripts for data loading, processing, and scoring.
